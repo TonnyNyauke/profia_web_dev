@@ -5,3 +5,9 @@ p{
     font-size: large;
     font-weight: bold;
 }
+div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
